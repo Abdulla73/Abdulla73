@@ -1,16 +1,14 @@
-### Hi there 👋
+#👋Hi there, I'm Abdulla! 
 
-<!--
-**Abdulla73/Abdulla73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Abdulla73&show_icons=true&theme=midnight-purple"/>
 
-Here are some ideas to get you started:
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla73&layout=compact"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="Left"  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="Left"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img align="Left"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="Left"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="Left"  src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+
+
