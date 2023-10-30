@@ -76,14 +76,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulla73&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="234" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="148" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Abdulla73&locale=en&mode=daily&theme=darcula&hide_border=true&border_radius=6&order=3" height="220" alt="streak graph"  />
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdulla73&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="234" alt="stats graph" />
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="234" alt="languages graph" />
+  </div>
 </div>
+
+
 
 ###
 
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulla73&theme=monokai" alt="Abdulla73" /></a> </p>
 
 
 ###
@@ -93,5 +100,7 @@
 </div>
 
 ###
-
+<div> <a href="https://github.com/Abdulla73" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulla73&theme=monokai"/>
 
