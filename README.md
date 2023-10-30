@@ -76,16 +76,13 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdulla73&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="234" alt="stats graph" />
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="234" alt="languages graph" />
-  </div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulla73&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" width="350"alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla73&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=true&order=2" height="148" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abdulla73&locale=en&mode=daily&theme=darcula&hide_border=true&border_radius=6&order=3" height="220" alt="streak graph"  />
 </div>
-
-
 
 ###
 
