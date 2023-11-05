@@ -18,7 +18,11 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Abdulla</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=200&size=21&pause=1000&color=F4F75E&center=true&vCenter=true&random=false&width=435&lines=+++++++++++Hey+there++%F0%9F%91%8B++I'm+Abdulla+%F0%9F%A5%B7;++++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer+in+the+Making+;+++++++++++++++++%F0%9F%92%A1+Code+Enthusiast+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F%E2%9D%95" alt="Typing SVG" /></a>
+</p>
+
+
 
 ###
 
@@ -26,7 +30,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software Engineer in the Making | 💡 Code Enthusiast | 🌐 Dreaming Big<br><br>👋 Hey there! I'm Abdullah, an aspiring Software Engineer with a passion for all things code.<br> Based in Dhaka,My goal? To make a dent in the tech universe and land my dream coding career. <br><br>🚀 What I'm Up To:<br>- 🌟 Crafting clean, efficient code to solve real-world problems.<br>- 📚 Constantly learning, exploring, and expanding my tech horizons.<br>- 🌐 Building a digital footprint, one commit at a time.<br><br>💬 Let's Connect:<br>- 📫 Reach out to me for code collaborations, advice, or just a good ol' tech chat.<br><br>⚡ Keep Calm and Code On! ⚡</p>
+An aspiring Software Engineer with a passion for all things code.<br> Based in Dhaka,My goal? To make a dent in the tech universe and land my dream coding career. <br><br>🚀 What I'm Up To:<br>- 🌟 Crafting clean, efficient code to solve real-world problems.<br>- 📚 Constantly learning, exploring, and expanding my tech horizons.<br>- 🌐 Building a digital footprint, one commit at a time.<br><br>💬 Let's Connect:<br>- 📫 Reach out to me for code collaborations, advice, or just a good ol' tech chat.<br><br>⚡ Keep Calm and Code On! ⚡</p>
 
 ###
 
